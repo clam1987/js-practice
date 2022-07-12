@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+header form {
+    display: flex;
+    flex-direction: column;
+    width: 40rem;
+}
+
