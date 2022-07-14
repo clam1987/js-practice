@@ -5,6 +5,7 @@ body {
 header form {
     display: flex;
     flex-direction: column;
+    /* nice job on using rem */
     width: 40rem;
 }
 
